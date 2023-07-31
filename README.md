@@ -1,4 +1,4 @@
-# Desafio 2 - SPA Universe ✅
+# SPA Universe 🪐
 
 <img src="./.github/preview-desafio-02.jpg" alt="Preview do projeto." />
 
