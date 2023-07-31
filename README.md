@@ -2,11 +2,11 @@
 
 <img src="./.github/preview-desafio-02.jpg" alt="Preview do projeto." />
 
-* <a href="">Acesse aqui.</a>
+* <a href="https://spa-universe-lime-alpha.vercel.app/">Acesse aqui.</a>
 
 ## 💻 O desafio
 
-A SPA Universe é um projeto desenvolvido como desafio do nível 6 do Programa Explorer da Rocketseat, de ensino de desenvolvimento Full Stack JavaScript (Confira meu repósitorio de todo o programa <a href="https://github.com/lucyanovidio/rocketseat-explorer">aqui</a>). <br><br> Trata-se de uma página web no modelo Single Page Application. A propósta do seu desenvolvimento é praticar conhecimentos que serão necessários quando vermos o uso de bibliotecas e frameworks, como React. Nesse projeto apliquei os seguintes conceitos:
+A SPA Universe é um projeto desenvolvido como desafio do nível 6 do <a href="https://rocketseat.com.br/explorer">Programa Explorer</a> da <a href="https://rocketseat.com.br">Rocketseat</a>, de ensino de desenvolvimento Full Stack JavaScript (Confira meu repósitorio de todo o programa <a href="https://github.com/lucyanovidio/rocketseat-explorer">aqui</a>). <br><br> Trata-se de uma página web no modelo Single Page Application. A propósta do seu desenvolvimento é praticar conhecimentos que serão necessários quando vermos o uso de bibliotecas e frameworks, como React. Nesse projeto apliquei os seguintes conceitos:
 * Conceitos de SPA
 * Mapeamento de rotas
 * Assincronismo e promises com *fetch*
